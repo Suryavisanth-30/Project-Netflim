@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  html{
+  scroll-behavior:smooth;}
+  div{
+      width:100vw;
+  height:95vh;
+  }
+  .box{
+  background-image:url('https://i.pinimg.com/originals/11/4a/77/114a7793089f0f2f89a7bb9291a429c6.jpg');
+  background-size:cover;
+  }
+  
+  h1{
+  color:red;}
+  
+  .box h4{
+  font-weight:500px;}
+  
+  span,h3,h4{
+  color:white;
+  font-weight:900px;}
+  
+  .title{
+      margin-left:450px;
+  margin-top:90px;}
+  
+  span{
+  font-size:60px;
+  font-weight:900px;
+  text-shadow: 5px 5px 5px blue;}
+  
+  h3{
+  margin-left:30px;
+  font-size:25px;
+  font-weight:300px;;}
+  
+  input{
+      width:250px;
+      height:30px;
+  padding:10px;
+  font-size:20px;}
+  
+  button{
+      height:30px;
+      width:250px;
+  background-color:red;
+  font-size:20px;}
+  
+  button a{
+  text-decoration:none;
+  color:white;}
+  
+  .box h1{
+  margin-top:10px;
+  margin-left:10px;}
+  
+  .king{
+      width:90px;
+      margin-left:1350px;
+  border-radius:20px;
+  background-color:red;}
+  
+  ul{
+  border:1px solid black;
+  border-radius:10px;
+  font-size:20px;
+  width:80px;
+  background-color:blue;
+  margin-left:1300px;
+  padding:10px;}
+  
+  ul li a{
+  text-decoration:none;
+  color:white;}
+      
+      .dog{
+          display:flex;
+      background:linear-gradient(black,blue);
+      margin-top:15px;}
+      
+      .dog img{
+          margin-top:150px;
+          margin-left:40px;
+          
+      }
+      
+      .dog h2{
+      color:white;
+      margin-top:200px;
+      margin-left:30px;}
+      
+  .donkey{
+  background:linear-gradient(black,red);
+  margin-top:15px;
+  text-align:center;}
+  
+  .donkey img{
+  margin-top:90px;
+  margin-right:90px;}
+  
+  .donkey h2,h3{
+  color:white;
+  margin-top:20px;
+  }
+  
+  .queen{
+  background:linear-gradient(black,blue);
+  text-align:center;
+  margin-top:15px;
+  }
+  
+  .queen img{
+  margin-top:70px;
+  border-radius:20px;}
+  
+  .queen h2,h4{
+      color:white;
+  margin-top:40px;}
+  
+  .lion{
+  background:linear-gradient(black,red);
+  text-align:center;
+  margin-top:15px;}
+  
+  .lion h2{
+  color:white;
+  margin-top:20px;}
+  
+  .lion img{
+  margin-top:70px;}
+  
+  .tiger{
+  margin-top:15px;
+  background:linear-gradient(black,blue);
+  text-align:center;}
+  
+  .video{
+  margin-top:50px;}
+  
+  .tiger h1 span{
+  margin-top:50px;}
